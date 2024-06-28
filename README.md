@@ -1,3 +1,5 @@
+<img align ="centre" alt ="Coding" width="100%" src="https://media.licdn.com/dms/image/D4D16AQHN37yc2f7aaQ/profile-displaybackgroundimage-shrink_350_1400/0/1712165463803?e=1724889600&v=beta&t=fRfuN3r2hrvwNDKXOCMcREDWkCg16HoPWMQcE1GnWZs">
+
 <h1 align="center">Hi 👋, I'm Sandesh Khilari</h1>
 <h3 align="center">A passionate Computer Engineering Student from India</h3>
 
@@ -8,7 +10,7 @@
 - 🌱 I’m currently learning **Data Structures and Algorithms, Frameworks.**
 
 - 📫 How to reach me **sndsh.khilari@gmail.com**
-<img align ="right" alt ="Coding" width="400" src="https://media.licdn.com/dms/image/D4D03AQHIm-FgW8Krww/profile-displayphoto-shrink_800_800/0/1718287042432?e=1724889600&v=beta&t=gLVePVXtvnJiEWQ0Y4GgCoapLXFYBiYO_M4t1Qq0wfE">
+<img align ="right" alt ="Coding" width="300" src="https://media.licdn.com/dms/image/D4D03AQHIm-FgW8Krww/profile-displayphoto-shrink_800_800/0/1718287042432?e=1724889600&v=beta&t=gLVePVXtvnJiEWQ0Y4GgCoapLXFYBiYO_M4t1Qq0wfE">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
