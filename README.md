@@ -1,4 +1,3 @@
-<img align ="centre" alt ="Coding" width="100%" src="[https://media.licdn.com/dms/image/D4D16AQHN37yc2f7aaQ/profile-displaybackgroundimage-shrink_350_1400/0/1712165463803?e=1724889600&v=beta&t=fRfuN3r2hrvwNDKXOCMcREDWkCg16HoPWMQcE1GnWZs](https://www.linkedin.com/in/sandesh-khilari-8458a2248/overlay/background-image/)">
 
 <h1 align="center">Hi 👋, I'm Sandesh Khilari</h1>
 <h3 align="center">A passionate Computer Engineering Student from India</h3>
