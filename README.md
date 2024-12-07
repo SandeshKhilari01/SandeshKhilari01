@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Data Structures and Algorithms, Frameworks.**
 
 - 📫 How to reach me **sndsh.khilari@gmail.com**
-<img align ="right" alt ="Coding" width="300" src="[https://media.licdn.com/dms/image/D4D03AQHIm-FgW8Krww/profile-displayphoto-shrink_800_800/0/1718287042432?e=1724889600&v=beta&t=gLVePVXtvnJiEWQ0Y4GgCoapLXFYBiYO_M4t1Qq0wfE](https://media.licdn.com/dms/image/v2/D4D03AQFPKRTv0UdSzw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1731481042984?e=1738800000&v=beta&t=mvgAuItQ8hn0Twt7KR3GMNPb1c4NAd77aSr1zmhMk6k)">
+<img align ="right" alt ="Coding" width="300" src="https://media.licdn.com/dms/image/v2/D4D03AQFPKRTv0UdSzw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1731481042984?e=1738800000&v=beta&t=mvgAuItQ8hn0Twt7KR3GMNPb1c4NAd77aSr1zmhMk6k">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
