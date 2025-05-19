@@ -54,15 +54,18 @@
 | Participant & Winner          | PanIIT Hackathon 2025      |
 
 ---
-### 📈 GitHub Stats
+### LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/sandeshkhilari?theme=dark&font=Source%20Code%20Pro&ext=heatmap)](https://leetcode.com/sandeshkhilari/)
+
+---
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SandeshKhilari01&show_icons=true&theme=radical" alt="stats"/>
   <img src="https://streak-stats.demolab.com?user=SandeshKhilari01&theme=dark" alt="streak"/>
 </p>
-### 🧠 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/sandeshkhilari?theme=dark&font=Source%20Code%20Pro&ext=heatmap)](https://leetcode.com/sandeshkhilari/)
 
 ## Other Achievements
 
