@@ -2,7 +2,7 @@
   Hi, I'm Sandesh Khilari
 </h1>
 <h3 align="center" style="color: #e0e0e0; margin-top: 10px;">
-  🥇 7x Hackathon Champion | 🎓 Computer Engineering Student | AR/AI Innovator | 💻 Full Stack Developer
+  🥇 7x Hackathons Champion | 🎓 Computer Engineering Student | AR/AI Innovator | 💻 Full Stack Developer
 </h3>
 
 <p align="center" style="margin: 20px 0;">
